@@ -10,3 +10,9 @@ git commit-m "added file" -> to track the file
 
 git restore testing.py -> to recover or get deleted files
 
+git remote -v -> to see remote repository
+
+git branch -M main -> to set branch name mater to main in local
+
+git push -u origin main -> to upstream new branch and push code to the github in main branch.
+
