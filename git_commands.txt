@@ -16,3 +16,11 @@ git branch -M main -> to set branch name mater to main in local
 
 git push -u origin main -> to upstream new branch and push code to the github in main branch.
 
+git branch -> to list branches
+
+git branch dev -> to create new branch
+
+git checkout -b dev -> to create branch and switch into it.
+
+git log / git log --oneline -> to see the logs of git
+
