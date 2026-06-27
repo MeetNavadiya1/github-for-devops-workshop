@@ -1,0 +1,12 @@
+git init
+
+git add . -> to stage all the files
+
+git add testing.py -> to stage sing files
+
+git rm --cache testing.py -> to make untracked file from staged.
+
+git commit-m "added file" -> to track the file
+
+git restore testing.py -> to recover or get deleted files
+
