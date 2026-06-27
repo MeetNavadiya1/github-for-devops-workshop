@@ -28,3 +28,4 @@ git pull origin main -> to pull from a specific branch
 
 git fetch -> to get remote branches
 
+=> pre-commit hook -> to trigger code on specific event
