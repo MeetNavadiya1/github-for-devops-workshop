@@ -24,3 +24,7 @@ git checkout -b dev -> to create branch and switch into it.
 
 git log / git log --oneline -> to see the logs of git
 
+git pull origin main -> to pull from a specific branch
+
+git fetch -> to get remote branches
+
